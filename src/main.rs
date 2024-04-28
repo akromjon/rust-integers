@@ -5,7 +5,7 @@ fn main() {
 
     println!("\n");
 
-    integers::run_u();
+    integers::run_u();    
 
     println!("\n");
 
